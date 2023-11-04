@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DenysShchypt.github.io/lesson06/",
+  "homepage": "https://DenysShchypt.github.io/React-Redux-Planning-tasks/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@reduxjs/toolkit": "^1.9.7",
