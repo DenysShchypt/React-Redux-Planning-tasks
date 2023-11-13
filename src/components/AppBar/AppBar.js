@@ -1,18 +1,15 @@
-import { StatusFilter } from 'components/StatusFilter/StatusFilter';
-import css from './AppBar.module.css'
-import { TaskCounter } from 'components/TaskCounter/TaskCounter';
+import { useAuth } from 'hooks';
+import { UserMenu } from 'components/UserMenu/UserMenu';
+import { Navigation } from 'components/Navigation/Navigation';
+import { AuthNav } from 'components/AuthNav/AuthNav';
 
 export const AppBar = () => {
-  return (
-    <header className={css.wrapper}>
-      <section className={css.section}>
-        <h2 className={css.title}>Tasks</h2>
-        <TaskCounter />
-      </section>
-      <section className={css.section}>
-        <h2 className={css.title}>Filter by status</h2>
-        <StatusFilter />
-      </section>
-    </header>
-  );
+const{isLoggedIn}= useAuth();
+return(
+  <header>
+    <Navigation/>
+    {isLoggedIn?<UserMenu/>:<AuthNav/>}
+  </header>
+)
+
 };

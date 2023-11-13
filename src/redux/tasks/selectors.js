@@ -1,5 +1,5 @@
 import { createSelector } from "@reduxjs/toolkit";
-import { statusFilters } from "./constants";
+import { statusFilters } from "../constants";
 
 export const selectTasks = state => state.tasks.items;
 
