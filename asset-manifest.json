@@ -1,13 +1,29 @@
 {
   "files": {
-    "main.css": "/React-Redux-Planning-tasks/static/css/main.1818361c.css",
-    "main.js": "/React-Redux-Planning-tasks/static/js/main.a060f404.js",
+    "main.css": "/React-Redux-Planning-tasks/static/css/main.7acaea2f.css",
+    "main.js": "/React-Redux-Planning-tasks/static/js/main.804b96dc.js",
+    "static/js/845.9a2c6b13.chunk.js": "/React-Redux-Planning-tasks/static/js/845.9a2c6b13.chunk.js",
+    "static/js/698.def88514.chunk.js": "/React-Redux-Planning-tasks/static/js/698.def88514.chunk.js",
+    "static/js/635.bd7d8a39.chunk.js": "/React-Redux-Planning-tasks/static/js/635.bd7d8a39.chunk.js",
+    "static/css/826.f247a33e.chunk.css": "/React-Redux-Planning-tasks/static/css/826.f247a33e.chunk.css",
+    "static/js/826.fb9d0074.chunk.js": "/React-Redux-Planning-tasks/static/js/826.fb9d0074.chunk.js",
+    "static/js/926.b859ba13.chunk.js": "/React-Redux-Planning-tasks/static/js/926.b859ba13.chunk.js",
+    "static/js/270.cdca11d3.chunk.js": "/React-Redux-Planning-tasks/static/js/270.cdca11d3.chunk.js",
+    "static/js/284.d69de27c.chunk.js": "/React-Redux-Planning-tasks/static/js/284.d69de27c.chunk.js",
     "index.html": "/React-Redux-Planning-tasks/index.html",
-    "main.1818361c.css.map": "/React-Redux-Planning-tasks/static/css/main.1818361c.css.map",
-    "main.a060f404.js.map": "/React-Redux-Planning-tasks/static/js/main.a060f404.js.map"
+    "main.7acaea2f.css.map": "/React-Redux-Planning-tasks/static/css/main.7acaea2f.css.map",
+    "main.804b96dc.js.map": "/React-Redux-Planning-tasks/static/js/main.804b96dc.js.map",
+    "845.9a2c6b13.chunk.js.map": "/React-Redux-Planning-tasks/static/js/845.9a2c6b13.chunk.js.map",
+    "698.def88514.chunk.js.map": "/React-Redux-Planning-tasks/static/js/698.def88514.chunk.js.map",
+    "635.bd7d8a39.chunk.js.map": "/React-Redux-Planning-tasks/static/js/635.bd7d8a39.chunk.js.map",
+    "826.f247a33e.chunk.css.map": "/React-Redux-Planning-tasks/static/css/826.f247a33e.chunk.css.map",
+    "826.fb9d0074.chunk.js.map": "/React-Redux-Planning-tasks/static/js/826.fb9d0074.chunk.js.map",
+    "926.b859ba13.chunk.js.map": "/React-Redux-Planning-tasks/static/js/926.b859ba13.chunk.js.map",
+    "270.cdca11d3.chunk.js.map": "/React-Redux-Planning-tasks/static/js/270.cdca11d3.chunk.js.map",
+    "284.d69de27c.chunk.js.map": "/React-Redux-Planning-tasks/static/js/284.d69de27c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1818361c.css",
-    "static/js/main.a060f404.js"
+    "static/css/main.7acaea2f.css",
+    "static/js/main.804b96dc.js"
   ]
 }
